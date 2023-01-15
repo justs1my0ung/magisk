@@ -1,1 +1,12 @@
-
+{{
+  "magisk": {
+    "version": "JUST V25",
+    "versionCode": "25200",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
+    "note": "https://raw.githubusercontent.com/justs1my0ung/magisk/main/stable.md"
+  },
+  "stub": {
+    "versionCode": "25",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@25.2/stub-release.apk"
+  }
+}
